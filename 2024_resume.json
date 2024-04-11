@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Jessica Hoang",
+    "label": "Software Developer",
+    "image": "https://wallpapers-clan.com/wp-content/uploads/2022/06/one-piece-monkey-d-luffy-pfp-3.jpg",
+    "summary": "Hello world, My name is Jessica Hoang and",
+    "website": "https://readymag.website/u1166408757/4436173/get-in-touch/?fbclid=IwAR1RA_nNE04_L6ZsvZlJ1JqTIQn6iZvcT4BKeYp2VIAuMbvo1GTi53igms8",
+    "email": "jessicahoangcodes@gmail.com",
+    "location": {
+      "city": "San Jose",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "url": "https://www.behance.net/jessicahoang2",
+        "username": "jessicahoang2",
+        "network": "behance"
+      },
+      {
+        "url": "https://github.com/thomasdavis",
+        "username": "thomasdavis",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/jessica-hoang/",
+        "username": "jessica-hoang",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2020-05-21",
+      "startDate": "2017-08-12",
+      "area": "Software Engineering",
+      "studyType": "Bachelors",
+      "institution": "San Jose State University",
+      "related courses": [
+        "Development with Java",
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Server-side Web Programming",
+        "Software Engineer I/ II/ III",
+        "Full-Stack JavaScript"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Python / Javascript",
+        "Java / Kotlin / C++ / C",
+        "CSS / HTML5",
+        "React.js / Next.js /three.js / Node.js ",
+        "MongoDB / MySQL "
+      ],
+      "level": "Mid",
+      "name": "Automation and Software Developer"
+    },
+    {
+      "keywords": ["Data Structures and Algorithms", "large-scale system data analysis", "debugging", "visualization tools"],
+      "level": "Mid",
+      "name": "Software Engineer"
+    },
+    {
+      "keywords": ["Data Structures and Algorithms", "TensorFlow", "Code and System Health", "Accessible Technologies"],
+      "level": "Mid",
+      "name": "Machine Learning Software Engineer"
+    },
+    {
+
+      "keywords": ["Data Structures and Algorithms", "Embedded Systems", "C", "Git", "real-time OS", "Linux", "JIRA"],
+      "level": "Mid",
+      "name": "Systems Software Engineer"
+    }
+  ],
+  "work": [
+    {
+      "summary": "My day starts off with optimizing machine learning model performances on 50 release tests per day, and collaborating with various teams to address and debug code-breaking issues. I developed automation tests for Pixel devices on Google configuration-driven testing framework, engineered unit testing and continuous integration for Python automation tests and manage them on Git and Gerrit. I also enhanced CI/CD infrastructure and the testing framework.",
+      "name": "Tokenized",
+      "location": "Mountain View",
+      "position": "Software Developer (Google Vendor)",
+      "startDate": "2022-07",
+      "highlights": ["Python", "Git", "Gerrit", "Configuration-driven testing framework", "machine learning models", "automation", "CI/CD Infrastructure", "Linux OS", "LK", "Android"]
+    },
+    {
+      "summary": "Developed automation software for ESS test to run 10+ robots concurrently, each utilizing a Pyserial module to handle serial port inputs and outputs by multi-threading. The automated tests were for Motor, Performance Accelerometer, Main brush motor, side brush motor, and blower tests, then storing the information into a centralized git.",
+      "website": "https://platform.blockbid.io",
+      "name": "Blockbid",
+      "location": "Melbourne",
+      "position": "Senior Javascript Developer",
+      "startDate": "2021-10",
+      "endDate": "2022-05",
+      "highlights": [
+        "Python, Git / Terminal / Linux OS",
+        "JIRA / Microsoft Excel"
+    ]
+    }
+  ],
+    "projects": [
+      {
+        "name": "Dino Effect",
+        "summary": "In a team of 3, we delievered a game-like effect version of the Chrome Dinosaur game. The effect software utilizes motion detection camera of our laptops to sync our head tilt to the dino's movement to dodge the environment sprites. The Dinosaur sprites was created from a dino sprite sheet.",
+        "startDate": "2023-01",
+        "endDate": "2023-01",
+        "highlights": [
+          "three.js / motion detection camera / javascript"
+        ]
+      },
+      {
+        "name": "Translator",
+        "summary": "A solo class project where I integrated a secure session mechanism and an authentication process using PHP on the website UI of Translator. The website UI gives the option to provide the text within the textbox to translate or by attaching a document or pdf file, and it would translate the text into French using the translation model data on MySQL database.",
+        "startDate": "2019-11",
+        "endDate": "2019-12",
+        "highlights": [
+          "three.js / motion detection camera / javascript"
+        ]
+      },
+      {
+        "name": "TimeCrunch",
+        "summary": "In a team of 4, We developed a React application called TimeCrunch to integrate solutions for avoiding waiting at long lines of your favorite restaurants. The frontend was developed using Javascript on the React Framework and stored on firebase backend. The project became a Silicon Valley Business Plan Competition project that was showcased longside 14 other teams in the semifinals. Afterwards, a financial mentor took interest in our project and chimed in to help the future of timeCrunch.",
+        "startDate": "2018-04",
+        "endDate": "2018-05",
+        "highlights": [
+          "three.js / motion detection camera / javascript"
+        ]
+      }
+    ],
+  "interests": [
+    {
+      "name": "Hip Dance classes / Hiking / Rock Climbing"
+    },
+    {
+      "name": "Music / Jamming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}
+
+  
