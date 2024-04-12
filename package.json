@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/thomasdavis/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/thomasdavis/resume#readme",
+  "devDependencies": {
+    "jsonresume-theme-stackoverflow": "^2.0.2",
+    "resume-cli": "^3.1.2"
+  }
 }
