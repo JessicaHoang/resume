@@ -53,28 +53,30 @@
     {
       "keywords": [
         "Python / Javascript",
-        "Java / Kotlin / C++ / C",
+        "Java / Kotlin / C++",
         "CSS / HTML5",
         "React.js / Next.js /three.js / Node.js ",
         "MongoDB / MySQL "
       ],
-      "level": "Mid",
-      "name": "Automation and Software Developer"
+      "level": "Early Career",
+      "name": "Full-Stack"
     },
     {
-      "keywords": ["Data Structures and Algorithms", "large-scale system data analysis", "debugging", "visualization tools"],
-      "level": "Mid",
-      "name": "Software Engineer"
-    },
-    {
-      "keywords": ["Data Structures and Algorithms", "TensorFlow", "Code and System Health", "Accessible Technologies"],
-      "level": "Mid",
-      "name": "Machine Learning Software Engineer"
+      "keywords": [
+        "Python / Java / C++ / JavaScript",
+        "Data Structures and Algorithms / large-scale system data analysis / debugging / visualization tools"],
+      "level": "Early Career",
+      "name": "General Software Engineer"
     },
     {
 
-      "keywords": ["Data Structures and Algorithms", "Embedded Systems", "C", "Git", "real-time OS", "Linux", "JIRA"],
-      "level": "Mid",
+      "keywords": [
+        "Data Structures and Algorithms / Embedded Systems / real-time OS", 
+        "C", 
+        "Git / Linux", 
+        "JIRA"
+      ],
+      "level": "Early Career",
       "name": "Systems Software Engineer"
     }
   ],
