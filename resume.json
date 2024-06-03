@@ -81,18 +81,19 @@
   "work": [
     {
       "summary": "My day starts off with optimizing machine learning model performances on 50 release tests per day, and collaborating with various teams to address and debug code-breaking issues. I developed automation tests for Pixel devices on Google configuration-driven testing framework, engineered unit testing and continuous integration for Python automation tests and manage them on Git and Gerrit. I also enhanced CI/CD infrastructure and the testing framework.",
-      "name": "Tokenized",
+      "name": "Raindrops Technology",
       "location": "Mountain View",
       "position": "Software Developer (Google Vendor)",
       "startDate": "2022-07",
+      "endDate": "2024-03",
       "highlights": ["Python", "Git", "Gerrit", "Configuration-driven testing framework", "machine learning models", "automation", "CI/CD Infrastructure", "Linux OS", "LK", "Android"]
     },
     {
       "summary": "Developed automation software for ESS test to run 10+ robots concurrently, each utilizing a Pyserial module to handle serial port inputs and outputs by multi-threading. The automated tests were for Motor, Performance Accelerometer, Main brush motor, side brush motor, and blower tests, then storing the information into a centralized git.",
       "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
+      "name": "Neato Robotics",
+      "location": "Milpitas",
+      "position": "Automation Developer",
       "startDate": "2021-10",
       "endDate": "2022-05",
       "highlights": [
@@ -108,7 +109,8 @@
         "startDate": "2023-01",
         "endDate": "2023-01",
         "highlights": [
-          "three.js / motion detection camera / javascript"
+          "Utilized three.js and motion detection camera technologies with the team.",
+          "Delivered the Chrome Dinosaur game into game-like effect by syncing our head tilts to the dino’s movement to dodge the environment sprites in 3 days on a team of 3."
         ]
       },
       {
@@ -117,7 +119,9 @@
         "startDate": "2019-11",
         "endDate": "2019-12",
         "highlights": [
-          "three.js / motion detection camera / javascript"
+          "Integrated a secure session mechanism and an authentication process using PHP on Translator, a website that translated text from a textbox or an attached file to French.",
+          "Centralized translation model data on a MySQL database.",
+          "Customized user information storage for authentication and translate the text retrieved from the website UI."
         ]
       },
       {
@@ -126,7 +130,9 @@
         "startDate": "2018-04",
         "endDate": "2018-05",
         "highlights": [
-          "three.js / motion detection camera / javascript"
+          "Developed TimeCrunch as a React application to integrate solutions for avoiding long waiting lines at your favorite places.",
+          "Showcased TimeCrunch’s idea and milestones and earned a spot in the semifinals in SVBPC along with 14 other teams.",
+          "Attained a mentor and business advisor for the future of TimeCrunch."
         ]
       }
     ],
