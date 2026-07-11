@@ -15,6 +15,11 @@
     },
     "profiles": [
       {
+        "url": "https://portfolio-v1-two-delta.vercel.app/",
+        "username": "portfolio-v1",
+        "network": "portfolio"
+      },
+      {
         "url": "https://www.behance.net/jessicahoang2",
         "username": "jessicahoang2",
         "network": "behance"
@@ -38,7 +43,8 @@
       "area": "Software Engineering",
       "studyType": "Bachelors",
       "institution": "San Jose State University",
-      "related courses": [
+      "certificates": "SJSU Summary",
+      "highlights": [
         "Development with Java",
         "Data Structures and Algorithms",
         "Operating Systems",
